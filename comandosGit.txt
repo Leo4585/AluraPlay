@@ -1,6 +1,16 @@
 COMANDOS GIT:
 
 
-1. Criar repositório no site do GitHub.
+1. Criar repositório no site do GitHub (OBS: para evitar erros, NÃO CRIAR O README).
 
-2. Na pasta raiz do projeto: $git init
+2. $git init    --> Iniciando o repositório na pasta
+
+3. $git add .   --> Adicionado todos (add .) os arquivos
+
+4. $git commit -a -m "mensagem que descreve o commit"    -->> Comitando todo (-a) os arquivos
+
+5. $git branch -M main
+
+6. $git remote add origin git@github.com:Leo...
+
+7. git push -u origin main
