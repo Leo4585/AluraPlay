@@ -1,6 +1,6 @@
 COMANDOS GIT:
 
-
+QUANDO O REPOSITÓRIO ESTÁ SENDO CRIADO - FAZER UMA ÚNICA VEZ
 1. Criar repositório no site do GitHub (OBS: para evitar erros, NÃO CRIAR O README).
 
 2. $git init    --> Iniciando o repositório na pasta
@@ -14,3 +14,13 @@ COMANDOS GIT:
 6. $git remote add origin git@github.com:Leo...
 
 7. git push -u origin main
+
+
+FAZENDO ALTERAÇÃO EM UM REPO JÁ EXISTENTE:
+1. Fazer alteraração nos arquivos
+
+2. $git add .
+
+3. $git commit -a -m "mensagem"
+
+4. $git push
