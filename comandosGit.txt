@@ -1,0 +1,6 @@
+COMANDOS GIT:
+
+
+1. Criar repositório no site do GitHub.
+
+2. Na pasta raiz do projeto: $git init
